@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://uchiurean.peel-framework.org/sitemap.xml
